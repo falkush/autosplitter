@@ -1,0 +1,2 @@
+# autosplitter
+Autosplitter for speedruns
